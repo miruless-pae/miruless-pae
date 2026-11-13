@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hai, saya Amirul Madjid Ibrahim
+# Hai, saya Amirul Madjid Ibrahim 👋
 
-**Mahasiswa Semester 5 · Web Developer yang suka mencoba banyak teknologi**
+<a href="https://github.com/miruless-pae">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58C94A&center=true&vCenter=true&width=700&height=60&lines=Informatics+Student;Fullstack+Web+Developer;Backend+Enthusiast+%7C+NestJS+%26+Express;Suka+mencoba+banyak+teknologi" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -90,8 +92,9 @@
 
 <div align="center">
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=miruless-pae&show_icons=true&theme=tokyonight)
-![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=miruless-pae&layout=compact&theme=tokyonight)
+![Followers](https://img.shields.io/github/followers/miruless-pae?style=for-the-badge&logo=github&color=181717)
+![Repositori](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmiruless-pae&query=%24.public_repos&label=Repositori&style=for-the-badge&logo=github&color=2ea44f)
+![Profile Views](https://komarev.com/ghpvc/?username=miruless-pae&label=Profile+Views&style=for-the-badge&color=blue)
 
 </div>
 
