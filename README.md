@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hai, saya Amirul Madjid Ibrahim 👋
+# Hai, saya Amirul Madjid Ibrahim
 
 **Mahasiswa Semester 5 · Web Developer yang suka mencoba banyak teknologi**
 
@@ -8,12 +8,12 @@
 
 ---
 
-## 🎯 Tentang Saya
+## Tentang Saya
 
-- 🎓 Mahasiswa yang sedang fokus belajar pengembangan web (frontend, backend, dan fullstack)
-- 🌱 Suka bereksperimen dengan bahasa dan framework baru lewat tugas kuliah dan proyek pribadi
-- 🤖 Pernah mencoba dunia AI/data lewat Python
-- 📫 Instagram: [@3irulsssss_](https://instagram.com/3irulsssss_)
+- Mahasiswa yang sedang fokus belajar pengembangan web (frontend, backend, dan fullstack)
+- Suka bereksperimen dengan bahasa dan framework baru lewat tugas kuliah dan proyek pribadi
+- Pernah mencoba dunia AI/data lewat Python
+- Instagram: [@3irulsssss_](https://instagram.com/3irulsssss_)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧰 Framework & Library
+## Framework & Library
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -57,7 +57,7 @@
 
 ---
 
-## 🔧 Tools
+## Tools
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -76,17 +76,17 @@
 
 ---
 
-## 🚀 Proyek Pilihan
+## Proyek Pilihan
 
-- 📱 [**Capstone-Framework**](https://github.com/miruless-pae/Capstone-Framework): backend API *vibr*, aplikasi AI untuk konten dan penjadwalan media sosial (NestJS, TypeORM, PostgreSQL)
-- 🍳 [**AI_Backend**](https://github.com/miruless-pae/AI_Backend) + [**cookmate-frontend**](https://github.com/miruless-pae/cookmate-frontend): CookMate, rekomendasi resep dari foto bahan makanan dengan Gemini AI dan TF-IDF (Flask, React, Vite, Tailwind)
-- 🧠 [**student-mood-monitoring**](https://github.com/miruless-pae/student-mood-monitoring): aplikasi pemantauan mood mahasiswa (Python, Streamlit, Docker)
-- 🔌 [**nodejs-crud-restapi**](https://github.com/miruless-pae/nodejs-crud-restapi): REST API CRUD dengan Express dan MySQL
-- 🎪 [**Invofest-full**](https://github.com/miruless-pae/Invofest-full): proyek website Invofest (TypeScript)
+- [**Capstone-Framework**](https://github.com/miruless-pae/Capstone-Framework): backend API *vibr*, aplikasi AI untuk konten dan penjadwalan media sosial (NestJS, TypeORM, PostgreSQL)
+- [**AI_Backend**](https://github.com/miruless-pae/AI_Backend) + [**cookmate-frontend**](https://github.com/miruless-pae/cookmate-frontend): CookMate, rekomendasi resep dari foto bahan makanan dengan Gemini AI dan TF-IDF (Flask, React, Vite, Tailwind)
+- [**student-mood-monitoring**](https://github.com/miruless-pae/student-mood-monitoring): aplikasi pemantauan mood mahasiswa (Python, Streamlit, Docker)
+- [**nodejs-crud-restapi**](https://github.com/miruless-pae/nodejs-crud-restapi): REST API CRUD dengan Express dan MySQL
+- [**Invofest-full**](https://github.com/miruless-pae/Invofest-full): proyek website Invofest (TypeScript)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
